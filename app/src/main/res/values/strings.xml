@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChannelList</string>
+
+    <string name="btn_prev">Prev</string>
+    <string name="btn_next">Next</string>
+    <string name="no_favorites">"Aucun favoris"</string>
+
+    <string name="quit">Quitter l\'application</string>
+    <string name="really_quit">Voulez-vous quitter l\'application?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+
+</resources>
